@@ -22,10 +22,6 @@ A simple Chrome extension to remove some of the disasters happened to Twitter fr
 1. "Twitter De-Elonizer" extension is now installed and ready to use.
    ![](./done.png)
 
-## Usage
-
-The extension will automatically remove the Doge logo from Elon Musk's Twitter profile when you visit the site. There is no need for any user interaction or configuration.
-
 ## Contributing
 
 We welcome contributions to improve the extension or fix any issues. To contribute, please:
