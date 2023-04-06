@@ -12,11 +12,15 @@ A simple Chrome extension to remove some of the disasters happened to Twitter fr
 
 ## Installation
 
-- Clone this repository or [download it](https://github.com/sehyunchung/twitter-de-elonizer/releases/download/0.1.0/twitter-de-elonizer.zip) as a .zip file and extract it to a folder.
-- Open Google Chrome and navigate to chrome://extensions.
-- Enable "Developer mode" by toggling the switch in the top-right corner of the page.
-- Click "Load unpacked" and select the folder containing the extension files.
-- The "Twitter De-Elonizer" extension is now installed and ready to use.
+1. Clone this repository or [download it](https://github.com/sehyunchung/twitter-de-elonizer/releases/download/0.1.0/twitter-de-elonizer.zip) as a .zip file and extract it to a folder.
+1. Open Google Chrome and navigate to chrome://extensions.
+1. Enable "Developer mode" by toggling the switch in the top-right corner of the page.
+   ![](./step1.png)
+1. Click "Load unpacked" and select the folder containing the extension files.
+   ![](./step2.png)
+   ![](./step3.png)
+1. "Twitter De-Elonizer" extension is now installed and ready to use.
+   ![](./done.png)
 
 ## Usage
 
