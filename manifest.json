@@ -3,19 +3,16 @@
   "name": "Twitter De-Elonizer",
   "version": "0.1.0",
   "description": "A simple Chrome extension to remove some of the disasters from a disaster.",
-  "permissions": ["activeTab"],
+  "permissions": [],
   "content_scripts": [
     {
-      "matches": ["https://twitter.com/*"],
+      "matches": ["*://*.twitter.com/*"],
       "js": ["content.js"]
     }
   ],
-  "action": {
-    "default_popup": "",
-    "default_icon": {
-      "16": "icon16.png",
-      "48": "icon48.png",
-      "128": "icon128.png"
-    }
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
   }
 }
