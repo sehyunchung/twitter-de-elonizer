@@ -2,7 +2,7 @@
 
 # Twitter De-Elonizer
 
-A lightweight Chrome extension that effectively removes the Doge logo from Twitter.com, providing a more pleasant browsing experience.
+A simple Chrome extension to remove some of the disasters happened to Twitter from a disaster happened to Twitter.
 
 ## Features
 

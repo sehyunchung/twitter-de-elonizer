@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Twitter De-Elonizer",
   "version": "0.1.0",
-  "description": "A simple Chrome extension to remove some of the disasters from a disaster.",
+  "description": "A simple Chrome extension to remove some of the disasters happened to Twitter from a disaster happened to Twitter.",
   "permissions": [],
   "content_scripts": [
     {
