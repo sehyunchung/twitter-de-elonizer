@@ -12,7 +12,7 @@ A lightweight Chrome extension that effectively removes the Doge logo from Twitt
 
 ## Installation
 
-- Clone this repository or download it as a .zip file and extract it to a folder.
+- Clone this repository or [download it](https://github.com/sehyunchung/twitter-de-elonizer/releases/download/0.1.0/twitter-de-elonizer.zip) as a .zip file and extract it to a folder.
 - Open Google Chrome and navigate to chrome://extensions.
 - Enable "Developer mode" by toggling the switch in the top-right corner of the page.
 - Click "Load unpacked" and select the folder containing the extension files.
